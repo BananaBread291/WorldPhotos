@@ -1,2 +1,0 @@
-# WorldPhotos
-NothingHere
